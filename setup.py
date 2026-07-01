@@ -45,7 +45,7 @@ setuptools.setup(
         'future',
         'gin-config>=0.3.0',
         'google-cloud-storage',
-        'hmmlearn<=0.2.7',
+        'hmmlearn==0.3.3',
         'librosa<=0.10',
         'pydub<=0.25.1',
         'protobuf<=3.20',  # temporary fix for proto dependency bug
