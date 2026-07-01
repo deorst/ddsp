@@ -40,7 +40,7 @@ setuptools.setup(
         'absl-py',
         'apache-beam',
         'cloudml-hypertune<=0.1.0.dev6',
-        'crepe<=0.0.12',
+        'crepe==0.0.16',
         'dill<=0.3.4',
         'future',
         'gin-config>=0.3.0',
